@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|c:\\users\\quang\\desktop\\lab04 - ph\u1EA1m xu\u00E2n quang - 7,0\\lab04\\lab04\\lab04-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\model\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\model\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\frmqlgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\frmqlgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\frmqlgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F92555-275B-4258-866D-2FF28A9F8153}|lab04-1\\lab04-1.csproj|solutionrelative:lab04-1\\frmqlgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\Model\\StudentContextDB.cs",
+              "RelativeDocumentMoniker": "lab04-1\\Model\\StudentContextDB.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\Model\\StudentContextDB.cs",
+              "RelativeToolTip": "lab04-1\\Model\\StudentContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:02:50.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab04-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\Form1.cs",
+              "RelativeToolTip": "lab04-1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:20:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQLGS.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\frmQLGS.cs",
+              "RelativeDocumentMoniker": "lab04-1\\frmQLGS.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\frmQLGS.cs",
+              "RelativeToolTip": "lab04-1\\frmQLGS.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:34:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab04-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\lab04\\lab04\\lab04-1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab04\\lab04\\lab04-1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:15:51.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQLGS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\frmQLGS.cs",
+              "RelativeDocumentMoniker": "lab04-1\\frmQLGS.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\lab04\\lab04\\lab04-1\\frmQLGS.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab04\\lab04\\lab04-1\\frmQLGS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:07:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\StudentSearch.cs",
+              "RelativeDocumentMoniker": "lab04-1\\StudentSearch.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\StudentSearch.cs",
+              "RelativeToolTip": "lab04-1\\StudentSearch.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:06:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentSearch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang\\Desktop\\LAB04 - Ph\u1EA1m Xu\u00E2n Quang - 7,0\\lab04\\lab04\\lab04-1\\StudentSearch.cs",
+              "RelativeDocumentMoniker": "lab04-1\\StudentSearch.cs",
+              "ToolTip": "C:\\Users\\Quang\\Desktop\\lab04\\lab04\\lab04-1\\StudentSearch.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\lab04\\lab04\\lab04-1\\StudentSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:49:25.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

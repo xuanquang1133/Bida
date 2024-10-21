@@ -1,0 +1,34 @@
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\lab04-1.exe.config
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\lab04-1.exe
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\lab04-1.pdb
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\EntityFramework.dll
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\EntityFramework.xml
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.csproj.AssemblyReference.cache
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04_1.Form1.resources
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04_1.Properties.Resources.resources
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.csproj.GenerateResource.cache
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.csproj.Up2Date
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.exe
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04-1.pdb
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04_1.frmQLGS.resources
+C:\Users\Admin Hp\source\repos\lab04\lab04-1\obj\Debug\lab04_1.StudentSearch.resources
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04_1.Form1.resources
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04_1.frmQLGS.resources
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04_1.Properties.Resources.resources
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04_1.StudentSearch.resources
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.csproj.GenerateResource.cache
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.exe
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.pdb
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\lab04-1.exe.config
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\lab04-1.exe
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\lab04-1.pdb
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\EntityFramework.dll
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\EntityFramework.xml
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quang\Desktop\lab04\lab04\lab04-1\obj\Debug\lab04-1.csproj.Up2Date
